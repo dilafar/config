@@ -1,2 +1,11 @@
 build:
   version: "3.0"
+
+loans:
+  message: "wellcome to loans api"
+  contactDetails:
+    name: "ahamed"
+    email: "fd@gmail.com"
+  contact:
+    - 011-1234567
+    - 011-1237567
