@@ -1,2 +1,11 @@
 build:
   version: "1.0"
+
+accounts:
+  message: "wellcome to accounts api"
+  contactDetails:
+    name: "ahamed"
+    email: "fd@gmail.com"
+  contact:
+    - 011-1234567
+    - 011-1237567
